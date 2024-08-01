@@ -33,7 +33,7 @@ const Home = () => {
       <Head>
         <title>Stable Diffusion</title>
         <meta name="description" content="Stable Diffusion Next.js Template" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/icon.png" />
       </Head>
 
       <main className={styles.main}>
